@@ -2,7 +2,7 @@ class Dog
   
   @@all = []
   
-  initialize
+  def initialize
   
   
   
